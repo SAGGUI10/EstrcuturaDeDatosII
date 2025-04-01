@@ -1,0 +1,4 @@
+se crea un arreglo que va ser pila 
+con el principio lifo y se usan:
+array_push()//agrega elementos al final de la pila
+array_shift()//retorna el ultimo elemento en entrar

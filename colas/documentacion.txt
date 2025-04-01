@@ -1,0 +1,4 @@
+se crea un arreglo que va ser cola 
+con el principio fifo y se usan:
+array_push()//agrega elementos al final de la cola 
+array_shift()//retorna el primer elemento 
