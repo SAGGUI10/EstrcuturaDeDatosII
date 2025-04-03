@@ -12,10 +12,10 @@
     }
     class ListaEnlazada
     {
-        public $value;
+        public $cabeza;
         public function __construct()
         {
-            $this -> siguiente = null;
+            $this -> cabeza = null;
         }
     }
 ?>
