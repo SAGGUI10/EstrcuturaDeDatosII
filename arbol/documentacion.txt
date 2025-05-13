@@ -1,0 +1,15 @@
+Se crea un clase Nodo con su valor, izquierdo, derecho estas ultimas en null
+despues se crea la calse ArbolBinario
+esta sirve para:
+1)Insertar el valor en la raiz
+2)Crear los nodos para los hijos y las hojas
+3)para verificar a donde debe ir el nuevo nodo si a la derecha o izquierda dependoiendo si es mayor o menor 
+4)menores a la izquierda(son hijos)
+5)mayores a la derecha (son las hoja)
+6)para acomodar en orden
+7)para acomodar en postOrden 
+8)para acomodar en preOrden
+
+Al final se creae un objeto de tipo ArbolBinario y se le insertan los valores
+para finalizar muestra los nodos en orede,preOrden Y postOrden
+
